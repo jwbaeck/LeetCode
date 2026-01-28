@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jwbaeck/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/jwbaeck/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/jwbaeck/LeetCode/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jwbaeck/LeetCode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/jwbaeck/LeetCode/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jwbaeck/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/jwbaeck/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
