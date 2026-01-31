@@ -7,15 +7,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jwbaeck/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/jwbaeck/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/jwbaeck/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/jwbaeck/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jwbaeck/LeetCode/tree/master/0016-3sum-closest) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jwbaeck/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/jwbaeck/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jwbaeck/LeetCode/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jwbaeck/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jwbaeck/LeetCode/tree/master/0016-3sum-closest) |
 ## Linked List
 |  |
