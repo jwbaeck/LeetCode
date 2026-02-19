@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/jwbaeck/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jwbaeck/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,8 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jwbaeck/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jwbaeck/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jwbaeck/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jwbaeck/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
