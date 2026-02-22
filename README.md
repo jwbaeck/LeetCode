@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jwbaeck/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jwbaeck/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jwbaeck/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
