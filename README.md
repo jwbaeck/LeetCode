@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
 ## Stack
 |  |
 | ------- |
