@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jwbaeck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jwbaeck/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jwbaeck/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/jwbaeck/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/jwbaeck/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/jwbaeck/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jwbaeck/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/jwbaeck/LeetCode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jwbaeck/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/jwbaeck/LeetCode/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/jwbaeck/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
