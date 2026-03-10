@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/jwbaeck/LeetCode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jwbaeck/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/jwbaeck/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jwbaeck/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jwbaeck/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/jwbaeck/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/jwbaeck/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jwbaeck/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
