@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/jwbaeck/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/jwbaeck/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jwbaeck/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jwbaeck/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/jwbaeck/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/jwbaeck/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/jwbaeck/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/jwbaeck/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/jwbaeck/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Linked List
 |  |
 | ------- |
