@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/jwbaeck/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jwbaeck/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jwbaeck/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
