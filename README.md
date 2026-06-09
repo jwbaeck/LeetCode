@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jwbaeck/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/jwbaeck/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jwbaeck/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/jwbaeck/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/jwbaeck/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/jwbaeck/LeetCode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jwbaeck/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/jwbaeck/LeetCode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/jwbaeck/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jwbaeck/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jwbaeck/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/jwbaeck/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -339,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/jwbaeck/LeetCode/tree/master/0164-maximum-gap) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
