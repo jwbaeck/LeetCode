@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jwbaeck/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/jwbaeck/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/jwbaeck/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jwbaeck/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/jwbaeck/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jwbaeck/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/jwbaeck/LeetCode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/jwbaeck/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jwbaeck/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/jwbaeck/LeetCode/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/jwbaeck/LeetCode/tree/master/0143-reorder-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/jwbaeck/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jwbaeck/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/jwbaeck/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/jwbaeck/LeetCode/tree/master/0173-binary-search-tree-iterator) |
