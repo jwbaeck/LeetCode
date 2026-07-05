@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jwbaeck/LeetCode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/jwbaeck/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jwbaeck/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/jwbaeck/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/jwbaeck/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jwbaeck/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jwbaeck/LeetCode/tree/master/0078-subsets) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jwbaeck/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/jwbaeck/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jwbaeck/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jwbaeck/LeetCode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/jwbaeck/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/jwbaeck/LeetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/jwbaeck/LeetCode/tree/master/0097-interleaving-string) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jwbaeck/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/jwbaeck/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/jwbaeck/LeetCode/tree/master/0068-text-justification) |
 ## Binary Search Tree
 |  |
 | ------- |
