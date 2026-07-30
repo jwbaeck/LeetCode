@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jwbaeck/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jwbaeck/LeetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/jwbaeck/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/jwbaeck/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/jwbaeck/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jwbaeck/LeetCode/tree/master/0139-word-break) |
 ## Sliding Window
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/jwbaeck/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/jwbaeck/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/jwbaeck/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/jwbaeck/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/jwbaeck/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/jwbaeck/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jwbaeck/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
