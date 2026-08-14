@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/jwbaeck/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/jwbaeck/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/jwbaeck/LeetCode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/jwbaeck/LeetCode/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/jwbaeck/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jwbaeck/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/jwbaeck/LeetCode/tree/master/0068-text-justification) |
