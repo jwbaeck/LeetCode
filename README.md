@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/jwbaeck/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jwbaeck/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jwbaeck/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/jwbaeck/LeetCode/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jwbaeck/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jwbaeck/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/jwbaeck/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jwbaeck/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jwbaeck/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jwbaeck/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/jwbaeck/LeetCode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/jwbaeck/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/jwbaeck/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jwbaeck/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jwbaeck/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jwbaeck/LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/jwbaeck/LeetCode/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -447,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/jwbaeck/LeetCode/tree/master/0051-n-queens) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/jwbaeck/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
