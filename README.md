@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jwbaeck/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/jwbaeck/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jwbaeck/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/jwbaeck/LeetCode/tree/master/0260-single-number-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/jwbaeck/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/jwbaeck/LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/jwbaeck/LeetCode/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/jwbaeck/LeetCode/tree/master/0260-single-number-iii) |
 ## Stack
 |  |
 | ------- |
